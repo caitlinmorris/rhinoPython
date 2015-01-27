@@ -1,0 +1,35 @@
+# **RHINO PYTHON**
+
+**DOWNLOADS**
+
+Working with Rhino and Python on OSX requires Rhinoceros 3D, the Python source library, and a text editor.
+
+The (currently free) OSX version of Rhino can be downloaded from here:
+
+**http://www.rhino3d.com/download/rhino-for-mac/5.0/wip**
+
+Komodo Edit is recommended as a text editor because it enables autocomplete and syntax support for IronPython and RhinoScript functions. 
+
+Komodo Edit is free and open source, available for download here:
+
+**http://komodoide.com/download/edit-osx/**
+
+Other Python-compatible text editors like XCode, Sublime, TextWrangler etc will also work (but without Rhino syntax recognition).
+
+The rhinoPython source library can be downloaded here:
+
+**https://github.com/mcneel/rhinopython**
+
+**INSTALL**
+
+Install the rhinopython folder at path:
+
+**User/Library/Application Support/McNeel/Rhinoceros/scripts/**
+
+Open Komodo Edit and navigate to the Python language preference window:
+
+**Komodo->Preferences->Languages->Python**
+
+Under "Additional Python Import Directories", add a new directory path and point to the python lib folder:
+
+**User/Library/Application Support/McNeel/Rhinoceros/MacPlugIns/IronPython/settings/lib**
