@@ -1,6 +1,6 @@
-# **RHINO PYTHON**
+## **RHINO+PYTHON**
 
-**DOWNLOADS**
+###**DOWNLOAD**
 
 Working with Rhino and Python on OSX requires Rhinoceros 3D, the Python source library, and a text editor.
 
@@ -20,13 +20,13 @@ The rhinoPython source library can be downloaded here:
 
 **https://github.com/mcneel/rhinopython**
 
-**INSTALL**
+###**INSTALL**
 
 Install the rhinopython folder at path:
 
 **User/Library/Application Support/McNeel/Rhinoceros/scripts/**
 
-Open Komodo Edit and navigate to the Python language preference window:
+To enable Rhino syntax support in Komodo Edit, open Komodo Edit and navigate to the Python language preference window:
 
 **Komodo->Preferences->Languages->Python**
 
