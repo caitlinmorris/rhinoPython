@@ -1,5 +1,21 @@
 ## **RHINO+PYTHON**
 
+###SLIDES
+
+Slides from the workshop are available for view at the following link. Note that there are some links to reference sites in the slide comments!  A few links are also listed below.
+
+**Slides:**
+
+https://docs.google.com/presentation/d/15P91Es9HF49vPTRwVHxFhThQj9mXQTtJo2PhxgjfbSI/edit?usp=sharing
+
+**rhinoPython reference:**
+
+http://4.rhino3d.com/5/ironpython/index.html
+
+**Random library reference:**
+
+https://docs.python.org/2/library/math.html
+
 ###**DOWNLOAD**
 
 Working with Rhino and Python on OSX requires Rhinoceros 3D, the Python source library, and a text editor.
